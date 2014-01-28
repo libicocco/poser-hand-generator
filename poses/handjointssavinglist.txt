@@ -1,0 +1,28 @@
+Right Forearm.Bend
+Right Forearm.Side-Side
+Right Forearm.Twist
+Right Index 1.Bend
+Right Index 1.Side-Side
+Right Index 1.Twist
+Right Index 2.Bend
+Right Index 3.Bend
+Right Mid 1.Bend
+Right Mid 1.Side-Side
+Right Mid 1.Twist
+Right Mid 2.Bend
+Right Mid 3.Bend
+Right Ring 1.Bend
+Right Ring 1.Side-Side
+Right Ring 1.Twist
+Right Ring 2.Bend
+Right Ring 3.Bend
+Right Pinky 1.Bend
+Right Pinky 1.Side-Side
+Right Pinky 1.Twist
+Right Pinky 2.Bend
+Right Pinky 3.Bend
+Right Thumb 1.Bend
+Right Thumb 1.Side-Side
+Right Thumb 1.Twist
+Right Thumb 2.Bend
+Right Thumb 3.Bend
