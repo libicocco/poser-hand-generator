@@ -9,16 +9,16 @@ In order to run the script you should have installed some version of Poser (http
 
 The best way to let me know that you're using the scripts is to fork the code and modify your version in github. If you use this script or modify it for your research, please include the following citation in your paper:
 
-@article{Romero_IVC_2013,
-title = "Non-parametric hand pose estimation with object context ",
-journal = "Image and Vision Computing ",
-volume = "31",
-number = "8",
-pages = "555 - 564",
-year = "2013",
-note = "",
-issn = "0262-8856",
-doi = "http://dx.doi.org/10.1016/j.imavis.2013.04.002",
-url = "http://www.sciencedirect.com/science/article/pii/S0262885613000656",
-author = "Javier Romero and Hedvig Kjellstr\:om and Carl Henrik Ek and Danica Kragic",
-}
+    article{Romero_IVC_2013,
+    title = "Non-parametric hand pose estimation with object context ",
+    journal = "Image and Vision Computing ",
+    volume = "31",
+    number = "8",
+    pages = "555 - 564",
+    year = "2013",
+    note = "",
+    issn = "0262-8856",
+    doi = "http://dx.doi.org/10.1016/j.imavis.2013.04.002",
+    url = "http://www.sciencedirect.com/science/article/pii/S0262885613000656",
+    author = "Javier Romero and Hedvig Kjellstr\:om and Carl Henrik Ek and Danica Kragic",
+    }
