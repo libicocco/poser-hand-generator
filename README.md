@@ -1,7 +1,7 @@
 poser-hand-generator
 ====================
 
-Poser scripts for generate hand images together with ground truth pose, as used in "Non-parametric hand pose estimation with object context" by Romero et al.
+Poser scripts for generate hand images together with ground truth pose, as used in "Non-parametric hand pose estimation with object context" by Romero et al. They are heavily based on the fantastic poser scripts from Gregory Shakhnarovich (http://ttic.uchicago.edu/~gregory/download.html).
 
 The script can be used for generating large amounts of images of a hand grasping different sets of simple objects, according to the taxonomy defined in "A comprehensive grasp taxonomy" by Feix et al. Images are generated together with some joint angle representation of the pose.
 
